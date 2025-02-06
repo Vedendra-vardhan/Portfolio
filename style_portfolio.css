@@ -18,12 +18,11 @@ header {
 }
 
 img {
-    width: 300px;  /* Adjust the size */
-    height: auto;  /* Maintain aspect ratio */
+    width: 300px;
+    height: auto;  
     display: block;
-    margin: 20px auto;  /* Center the image */
-    border: 5px solid #ff5733;  /* Colorful border */
-   
+    margin: 20px auto;  
+    border: 5px solid #ff5733;  
     transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
 }
 
